@@ -1,0 +1,9 @@
+building,floor_area_m2,weather_index,weather_sensitive_share,annual_energy_kwh,raw_eui_kwh_m2,weather_normalized_eui_kwh_m2,benchmark_index
+Arts Center,5300,1.02,0.43,618686.74,116.733,115.738,77.8
+Admin Building,4800,1.04,0.57,607361.12,126.534,123.713,83.2
+North Hall,8200,1.1,0.76,1158137.77,141.236,131.261,88.2
+Teaching Block,10300,1.09,0.71,1627141.1,157.975,148.487,99.8
+Dormitory A,12500,1.12,0.81,2040457.99,163.237,148.776,100.0
+Library,6100,1.06,0.52,1011108.04,165.755,160.74,108.0
+Science Block,9400,1.14,0.68,1737722.76,184.864,168.795,113.5
+Sports Hall,7200,1.08,0.61,1445001.17,200.695,191.356,128.6
